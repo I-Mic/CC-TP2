@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FFSync:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FFSync_jar</output-path>
+    <root id="archive" name="FFSync.jar">
+      <element id="module-output" name="TP2" />
+    </root>
+  </artifact>
+</component>
